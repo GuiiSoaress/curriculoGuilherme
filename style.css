@@ -50,3 +50,10 @@ body{
     color: #ffffff;
 }
 
+.foto{
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+    border-style: solid;
+    border: 5px inset #063280;
+}
