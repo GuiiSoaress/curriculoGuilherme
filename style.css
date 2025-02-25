@@ -1,0 +1,52 @@
+
+body{
+    font-family: poppins;
+    background-color: #f1f1f1;
+}
+.name{
+    text-align: center;
+}
+#name{
+    color: #063280;
+}
+
+.content{
+    margin-left: 18%;
+    margin-right: 18%;
+}   
+
+.botoes{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.titulos{
+    color: #063280;
+    border-bottom: #063280;
+    border-bottom: solid;
+}
+
+.pcargo{
+    font-weight: bold;
+}
+
+.link_empresa{
+    text-decoration: none;
+    color: #6371c9;
+
+}
+.link_empresa:hover{
+    color: #ffffff;
+    background-color: #6371c9;
+}
+
+.link_contato{
+    padding: 10px;
+    background-color: #6371c958;
+    text-decoration: none;
+}
+
+.link_contato:hover{
+    color: #ffffff;
+}
+
